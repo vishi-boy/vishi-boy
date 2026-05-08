@@ -1,4 +1,7 @@
-## Hi there 👋
+<!-- 💫 Typing Title -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Subash+Kumawat!;+Full+Stack+Developer+💻;+AI+Enthusiast+🚀;" />
+</h1>
 
 # 💫 About Me:
 🚀 Motivated Artificial Intelligence & Data Science student passionate about building scalable and intelligent web applications.<br><br>🔭 Currently working on AI-powered full stack projects with real-world impact.<br><br>🌱 Exploring React.js, Node.js, AI Integration, and Web3 technologies.<br><br>💡 Strong foundation in DSA, DBMS, and OOPs<br><br>⚡ Focused on writing clean, efficient, and production-ready cod
