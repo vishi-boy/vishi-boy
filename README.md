@@ -48,7 +48,17 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,c,html,css,js,react,nodejs,redux,tailwind,mongodb,mysql,python,git,github,vercel,netlify,vscode,python,pandas,numpy,sql,powerbi,excel" />
+<img src="https://skillicons.dev/icons?i=cpp,c,html,css,js,react,nodejs,redux,tailwind,mongodb,mysql,python,git,github,vercel,netlify,vscode," />
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="SQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+  <img src="https://cdn.simpleicons.org/pandas/150458" width="45" height="45" alt="Pandas"/>
+  <img src="https://cdn.simpleicons.org/numpy/013243" width="45" height="45" alt="NumPy"/>
+  <img src="https://cdn.simpleicons.org/matplotlib/11557C" width="45" height="45" alt="Matplotlib"/>
+  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="45" height="45" alt="Excel"/>
+  <img src="https://cdn.simpleicons.org/googlesheets/34A853" width="45" height="45" alt="Google Sheets"/>
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="45" height="45" alt="Power BI"/>
+</p>
 
 </div>
 
