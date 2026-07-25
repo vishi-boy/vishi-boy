@@ -101,3 +101,22 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C2FF&height=120&section=footer"/>
 
 </div>
+<!-- 🏆 Achievements -->
+<div align="center">
+  <h2>🏆 Achievements</h2>
+  <ul align="left">
+    <li>🎓 RHCSA Certified (Red Hat)</li>
+    <li>🧠 Salesforce Project Intern – TechForce Academy</li>
+    <li>💡 Infosys Springboard Certified (Frontend Developer)</li>
+    <li>🔥 LeetCode 50 Days Badge </li>
+    <li>📘 NPTEL Certified – Google Cloud Computing Foundation</li>
+  </ul>
+</div>
+
+---
+
+<!-- ✨ Footer -->
+<div align="center">
+  <h3>✨ "Code is like humor. When you have to explain it, it’s bad." ✨</h3>
+  <p>💫 Keep Learning • Keep Building • Keep Growing 💫</p>
+</div>
