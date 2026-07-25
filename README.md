@@ -10,16 +10,15 @@
 
 ---
 
-# 💫 About Me
-
 <div align="center">
-
-✨ Passionate Artificial Intelligence & Data Science Student  
-💻 Building modern Full Stack web applications  
-🚀 Exploring AI Integration & Web3 technologies  
-🧠 Strong in DSA, DBMS & OOPs  
-⚡ Focused on clean UI & efficient code  
-
+  <h2>🧠 About Me</h2>
+  <p>
+    ✨ Data Analyst | AI & Data Science Student.<br><br>
+    📊 Passionate about <strong>data analysis, visualization & business intelligence </strong>. <br><br>
+    🐍 Skilled in <strong>SQL, Python, Power BI, Excel, Pandas & NumPy<strong>.<br><br>
+    📈 Building interactive dashboards and extracting actionable insights.<br><br>
+    🚀 Continuously learning AI & Analytics
+  </p>
 </div>
 
 ---
@@ -52,6 +51,34 @@
 
 
 </div>
+<!-- 🚀 Projects -->
+<div align="center">
+  <h2>🚀 Featured Projects</h2>
+
+  <table>
+    <tr>
+      <!-- Project 1 -->
+      <td width="50%" align="center">
+        <h3>🧩 Super Store Sales Dashboard</h3>
+        <p>
+          📊 Developed an interactive Power BI dashboard to analyze Superstore sales performance.<br>
+          🎯 Built interactive slicers, filters, and drill-through reports for dynamic insights..<br><br>
+          <strong>Tech Stack: Power BI | Power Query | DAX | SQL | Microsoft Excel <br><br>|
+          <a href="[https://github.com/Subashkumawat34/AI-Based-Portfolio-Website-Generator](https://github.com/vishi-boy/Super-Store-Sales-Dashboard)">GitHub</a>
+        </p>
+              </td><!-- Project 2 -->
+<td width="50%" align="center">
+  <h3>🌾 Swiggy Sales Analysis</h3>
+  <p>
+    🧹 Cleaned and transformed raw data using Power Query for accurate analysis.<br>
+    🌍 Analyzed sales trends across Cities, Restaurants, Food Categories, and Delivery Partners.<br><br>
+    <strong>Tech Stack: Microsoft Excel | Power Query | DAX | Python | Pandas | NumPy | Matplotlib<br><br>
+   <a href = "[https://github.com/Subashkumawat34/AI-Based-Portfolio-Website-Generator](https://github.com/vishi-boy/Super-Store-Sales-Dashboard)">GitHub</a>">GitHub</a>
+  </p>
+</td>
+</tr>
+
+<tr>
 
 ---
 
@@ -67,31 +94,13 @@
 
 </div>
 
----
-
-
-
----
-
-
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=vishi-boy&style=for-the-badge&color=blue" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C2FF&height=120&section=footer"/>
 
 </div>
 <!-- 🏆 Achievements -->
 <div align="center">
   <h2>🏆 Achievements</h2>
   <ul align="left">
+    <li>🧠 PowerBI Certificate - E-Learning Platform
     <li>🎓 RHCSA Certified (Red Hat)</li>
     <li>🧠 Salesforce Project Intern – TechForce Academy</li>
     <li>💡 Infosys Springboard Certified (Frontend Developer)</li>
@@ -107,3 +116,14 @@
   <h3>✨ "Code is like humor. When you have to explain it, it’s bad." ✨</h3>
   <p>💫 Keep Learning • Keep Building • Keep Growing 💫</p>
 </div>
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=vishi-boy&style=for-the-badge&color=blue" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C2FF&height=120&section=footer"/>
