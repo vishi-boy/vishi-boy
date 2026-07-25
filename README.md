@@ -54,8 +54,6 @@
 
 <img src="https://skillicons.dev/icons?i=cpp,c,html,css,js,react,nodejs,redux,tailwind,mongodb,mysql,python,git,github,vercel,netlify,vscode" />
 
-<br><br>
-
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"/>
